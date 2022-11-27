@@ -15,6 +15,8 @@ The Neural network model contains input layer,two hidden layers and output layer
 
 ![Dl Exp1](https://user-images.githubusercontent.com/75235386/187220195-e22c99aa-5ba2-42c7-83d4-5da0d125fc7a.jpeg)
 
+
+
 ## DESIGN STEPS:
 
 ### STEP 1:
@@ -44,6 +46,7 @@ Plot the performance plot
 ### STEP 7:
 
 Evaluate the model with the testing data.
+
 
 ## PROGRAM:
 ```
@@ -87,9 +90,11 @@ AI_BRAIN.predict(x_n1_1)
 
 ```
 
+
 ## Dataset Information:
 
 ![Dataset1](https://user-images.githubusercontent.com/75235386/187226492-880a85d1-c4a8-47c9-898a-180837152423.jpg)
+
 
 ## OUTPUT:
 
