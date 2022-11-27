@@ -1,4 +1,7 @@
-# Developing a Neural Network Regression Model
+### EXP NO: 01
+### DATE: 29.08.2022
+
+# <p align = "center"> Developing a Neural Network Regression Model
 
 ## AIM:
 
@@ -43,6 +46,10 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM:
+```
+Developed By: Aditya JV
+Register Number: 212220230002
+```
 ```Python
 import pandas as pd
 from sklearn.model_selection import train_test_split
